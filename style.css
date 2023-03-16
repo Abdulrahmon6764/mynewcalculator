@@ -1,0 +1,14 @@
+*{
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+.dance{
+text-align: center;
+border-radius: 25px;
+box-shadow: 1px 2px 11px 3px rgb(82, 82, 187);
+
+}
+
+
+
